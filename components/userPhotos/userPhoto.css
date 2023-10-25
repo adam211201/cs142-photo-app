@@ -1,0 +1,21 @@
+.cs142-comment-form {
+	margin-top: 16px;
+	display: flex;
+	flex-direction: column;
+}
+
+.cs142-action-bar {
+	padding: 0px 8px 0px 8px;
+	margin-bottom: 8px;
+	display: flex;
+	flex-direction: row;
+	justify-content: end;
+}
+
+.cs142-action-bar svg {
+	cursor: pointer;
+}
+
+.cs142-comment-form button {
+	margin-top: 8px;
+}

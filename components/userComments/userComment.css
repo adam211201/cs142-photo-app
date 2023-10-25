@@ -1,0 +1,9 @@
+.user-comment {
+	display: flex !important;
+	flex-direction: row;
+	justify-content: space-between !important;
+}
+
+.user-comment-img {
+	width: 200px;
+}

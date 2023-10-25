@@ -1,0 +1,22 @@
+.user-favourite {
+	display: flex !important;
+	flex-direction: row;
+	justify-content: space-between !important;
+}
+
+.user-favourite-img {
+	max-width: 200px;
+	max-height: 200px;
+	cursor: pointer;
+}
+
+.user-modal-actions {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+}
+
+.user-modal-img {
+	max-width: 600px;
+	max-height: 600px;
+}

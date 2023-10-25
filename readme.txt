@@ -1,0 +1,1 @@
+Stanford CS 142 — Final Assignment. Created a photo-sharing app with user registration, authentication, commenting, image posting, feeds, etc.

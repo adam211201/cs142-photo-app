@@ -1,0 +1,19 @@
+.user-list-item {
+	display: flex !important;
+	flex-direction: row;
+	justify-content: space-between !important;
+}
+
+.user-list-item-activity {
+	margin-left: 16px;
+	margin-bottom: 10px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.user-list-item-activity-img {
+	max-width: 50px;
+	max-height: 50px;
+	margin-right: 10px;
+}
